@@ -174,5 +174,3 @@ For enhanced functionality, use `gesturelivecommand.py` to trigger specific acti
 This project is licensed under the [LICENSE](./LICENSE) file. You are free to use, modify, and distribute this project in accordance with the license terms.
 ```
 
-## Questions
-If you have any questions or need assistance, feel free to reach out via email at [valentin.wyer@students.ffhs.ch](mailto:valentin.wyer@students.ffhs.ch). You can also explore more of my projects on my [GitHub page](https://github.com/vwyer).
