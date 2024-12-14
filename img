@@ -1,6 +1,0 @@
-<script>start("/Users/vwyer/testrepo/gesture-ml/img/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("back.png","back.png",0,700778,"684 kB",1734172194,"14.12.24, 11:29:54");</script>
-<script>addRow("capture_gesture_to_db.png","capture_gesture_to_db.png",0,56673,"55.3 kB",1734172194,"14.12.24, 11:29:54");</script>
-<script>addRow("chlapi01.png","chlapi01.png",0,32366,"31.6 kB",1734172194,"14.12.24, 11:29:54");</script>
-<script>addRow("next.png","next.png",0,540213,"528 kB",1734172194,"14.12.24, 11:29:54");</script>
