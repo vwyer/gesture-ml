@@ -172,5 +172,8 @@ For enhanced functionality, use `gesturelivecommand.py` to trigger specific acti
 
 ## License
 This project is licensed under the [LICENSE](./LICENSE) file. You are free to use, modify, and distribute this project in accordance with the license terms.
-```
+
+---
+
+If you have any questions or suggestions, feel free to contact me. I hope you find this project helpful and informative. Thank you for your interest!
 
