@@ -17,7 +17,7 @@ env/
 
 # Logs and databases
 *.log
-*.db
+
 
 # OS-specific files
 .DS_Store
@@ -29,12 +29,11 @@ Thumbs.db
 *.swp
 
 # Generated files
-*.pkl
 *.h5
 *.ckpt
 
 # Images
-*.png
+
 *.jpg
 *.jpeg
 *.gif
